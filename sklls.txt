@@ -1,0 +1,18 @@
+1.Basic theory
+2.Client-server architecture
+3.HTTP
+4.JSON, XML
+5.Postman
+6.Work with logs
+7.Charles, Fiddler
+8.Dev Tools (Chrome, FireFox)
+9.VPN
+12.Mobile testing
+13.Terminal Linux
+14.bash scripting
+15.SQL
+16.Postgres
+17.Redis
+18.Jmeter
+19.Scrum
+20.Python (basics)

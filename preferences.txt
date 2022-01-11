@@ -1,0 +1,5 @@
+favorite movie: home alone
+favorite series: Breaking Bad
+favorite food: cheese
+favorite season: summer
+country to visit: USA
