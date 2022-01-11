@@ -1,0 +1,6 @@
+Title: The "buy" button does not work
+Priority: High
+Severity: Blocker
+Steps to reproduce: 1) open the catalog. 2)put the product in the basket. 3) go to the basket. 4) click "buy".
+Expected result: It was made the transition to the order payment page.
+Actual result: the button "order" doesn't work.
