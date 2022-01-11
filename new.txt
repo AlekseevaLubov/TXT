@@ -1,0 +1,4 @@
+Name: Luba
+Age: 34
+Pets: 1
+Desired Salary: 1000
